@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mercywairimu01
+-  I’m interested in web development
+- 🌱 I’m currently learning Python/flask
+- 💞️ I’m looking to collaborate with other Software Developers
